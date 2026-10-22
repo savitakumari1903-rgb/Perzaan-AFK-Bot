@@ -6,10 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
-  },
+    "ip": progamer32212.aternos.me",
+    "port": 24587,     },"version": "1.21.1"
   "position": {
     "enabled": true,
     "x": 0,
